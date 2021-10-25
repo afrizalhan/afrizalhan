@@ -1,3 +1,5 @@
+[![Mentioned in Awesome Go](https://awesome.re/mentioned-badge.svg)](https://github.com/avelino/awesome-go)  
+
 - 👋 Hi, I’m @afrizalhan
 - 👀 I’m interested in backend web development
 - 🌱 I’m currently learning MERN stack
